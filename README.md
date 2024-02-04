@@ -1,8 +1,8 @@
 ## Here you will be able to see which projects I am working on or have completed!
 
-### To start, please select the level:
+### To start, please select a level:
 
-*Course Work Links:*
+*Level Links:*
 
 1. [Beginner README.md](Beginner/README.md "My Beginner README.md file")
     - This is where all of my beginner and basic projects will be located!
